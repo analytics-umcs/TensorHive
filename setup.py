@@ -40,7 +40,7 @@ setup(
         'Flask==1.1.4',
         'Flask-Cors==3.0.9',
         'Flask-JWT-Extended==3.13.1',
-        'gevent==21.1.2',
+        'gevent==21.12.0',
         'greenlet==1.1.0',
         'gunicorn==19.9.0',
         'humanfriendly==9.1',
